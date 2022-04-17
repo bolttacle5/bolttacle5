@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bolttacle5
+- 👋 Hi, I’m @bolttacle5 a little gay
 - 👀 I’m interested in data science and app dev
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on any data science projects
